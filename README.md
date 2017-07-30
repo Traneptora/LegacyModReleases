@@ -4,6 +4,7 @@ This is a repository of old binary releases of deprecated mods.
 ### Legacy releases of active mods
 - [AutoSwitch](http://thebombzen.com/LegacyModReleases/AutoSwitch/)
 - [EnchantView](http://thebombzen.com/LegacyModReleases/EnchantView/)
+- [ThebombzenAPI](http://thebombzen.com/LegacyModReleases/ThebombzenAPI/)
 
 ### Legacy releases of deprecated mods
  - [MobAura](http://thebombzen.com/LegacyModReleases/Deprecated/MobAura/)
